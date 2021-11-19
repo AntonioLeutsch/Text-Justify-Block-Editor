@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Text Justify
- * Plugin URI: https://github.com/antonioleutsch/text-justify
+ * Plugin URI: https://github.com/antonioleutsch/text-justify-block-editor
  * Description: Easily add text justify to WordPress Block Editor.
  * Version: 1.0.0
  * Author: Antonio Leutsch
